@@ -1,0 +1,2 @@
+module VacMan {
+}
